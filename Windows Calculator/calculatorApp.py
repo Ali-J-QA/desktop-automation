@@ -1,4 +1,4 @@
-# calculator.py
+# calculatorApp.py
 import pyautogui
 import subprocess
 import time
