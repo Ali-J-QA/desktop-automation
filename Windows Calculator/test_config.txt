@@ -1,0 +1,4 @@
+    test_addition
+    test_multiplication_forced_failure
+    test_multiplication
+    test_dividebyzero
