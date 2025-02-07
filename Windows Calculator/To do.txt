@@ -1,0 +1,7 @@
+List of enhancements planned for Calc project:
+
+- Dynamic waits
+- Error handling
+- Config-Based test runner to allow users to define tests without modifying code
+- Parameterization
+- Screenshot on failure
